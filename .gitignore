@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pt
+*.npz
+data/
+figs_slides/out/*.npz

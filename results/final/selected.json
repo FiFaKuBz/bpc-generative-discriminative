@@ -1,0 +1,12 @@
+{
+ "bPC": {
+  "name": "agen0.0001_leaky_relu_fW_lrx0.01_m0_lrp0.0003_wd0.0001_T8_e25_s0",
+  "val_acc": 0.9787999987602234,
+  "val_rmse": 0.1145007535815239
+ },
+ "discPC": {
+  "name": "agen0_leaky_relu_fW_lrx0.01_m0_lrp0.0003_wd0.001_T8_e25_s0",
+  "val_acc": 0.9847999811172485,
+  "val_rmse": 0.8443857431411743
+ }
+}
